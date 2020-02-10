@@ -1,0 +1,100 @@
+100	The Children of the New Forest	Frederick Marryat
+109	Lessons for Children	Anna Laetitia Barbauld
+113	Max and Moritz	Wilhelm Busch
+116	Little Lord Fauntleroy	Frances Hodgson Burnett
+124	Five Children and It	E. Nesbit
+127	The History of Sandford and Merton	Thomas Day
+132	Robinson Crusoe	Daniel Defoe
+175	The Children of Green Knowe	Lucy M. Boston
+179	The Adventures of Pinocchio	Carlo Collodi
+183	A Visit From St. Nicholas	Clement Clarke Moore
+192	Emil and the Detectives	Erich Kastner
+193	Ballet Shoes	Noel Streatfeild
+194	The Velveteen Rabbit	Margery Williams
+201	Swallows and Amazons	Arthur Ransome
+206	Oliver Twist	Charles Dickens
+209	The Princess and the Goblin	George MacDonald
+214	The Reluctant Dragon	Kenneth Grahame
+218	Anne of Green Gables	Lucy Maud Montgomery
+222	The Heart of a Dog	Albert Payson Terhune
+230	Seven Little Australians	Ethel Turner
+240	Charlotte's Web	E. B. White
+249	King Arthur and His Knights	Howard Pyle
+251	Rip Van Winkle	Washington Irving
+252	The Legend of Sleepy Hollow	Washington Irving
+260	Rebecca of Sunnybrook Farm	Kate Douglas Wiggin
+268	Smoky the Cowhorse	Will James
+273	The Lost World	Sir Arthur Conan Doyle
+277	A Bear Called Paddington	Michael Bond
+278	My Name Is Aram	William Saroyan
+284	The Nutcracker and the Mouse King	E. T. A. Hoffman
+289	Twenty Thousand Leagues under the Sea	Jules Verne
+291	Little House in the Big Woods	Laura Ingalls Wilder
+300	The Borrowers	Mary Norton
+303	The Coral Island	R. M. Ballantyne
+307	Johnny Tremain	Esther Forbes
+355	Nights with Uncle Remus	Joel Chandler Harris
+361	Nicholas Nickelby	Charles Dickens
+366	A Journey to the Center of the Earth	Jules Verne
+372	At the Back of the North Wind	George MacDonald
+381	"Are You There, God? It's Me, Margaret"	Judy Blume
+386	Great Expectations	Charles Dickens
+390	Watership Down	Richard Adams
+392	The Story of Doctor Dolittle	Hugh Lofting
+394	Little Women	Louisa May Alcott
+404	Curious George	H. A. Rey
+410	The Rescuers	Margery Sharp
+422	Tales of Mother Goose	Charles Perrault
+430	The Blue Fairy Book	Andrew Lang
+436	Tom's Midnight Garden	Philippa Pearce
+438	Peter and Wendy	J. M. Barrie
+447	The Little Prince	Antoine de Saint-Exup‚ry
+453	The Cat in the Hat	Dr. Seuss
+457	Harry the Dirty Dog	Gene Zion
+459	Where the Wild Things Are	Maurice Sendak
+495	Treasure Island	Robert Louis Stevenson
+501	Pollyanna	Eleanor H. Porter
+502	Black Beauty	Anna Sewell
+517	The Brownies and other Tales	Juliana Horatia Ewing
+525	Little Pretty Pocket-book	John Newbery
+532	Fairy Tales	Hans Christian Andersen
+541	Little Goody Two Shoes	Oliver Goldsmith
+544	Bambi	Felix Salten
+547	A Taste of Blackberries	Doris Buchanan Smith
+553	The Railway Children	E. Nesbit
+560	James and the Giant Peach	Roald Dahl
+568	Tom Brown's Schooldays	Thomas Hughes
+577	Through the Looking-Glass	Lewis Carroll
+581	Ivanhoe	Walter Scott
+591	A Dog of Flanders	Ouida
+595	The House at Pooh Corner	A. A. Milne
+625	The Secret Garden	Frances Hodgson Burnett
+633	Moonfleet	J. Meade Falkner
+634	Charlie and the Chocolate Factory	Roald Dahl
+638	A Wizard of Earthsea	Ursula K. Le Guin
+643	Grimm's Fairy Tales	Jacob and Wilhelm Grimm
+645	The Merry Adventures of Robin Hood	Howard Pyle
+653	The Dark Frigate	Charles Boardman Hawes
+686	"The Lion, the Witch, and the Wardrobe"	C.S. Lewis
+695	Tales of Peter Parley About America	Peter Parley (pseudonym)
+700	The Jungle Book	Rudyard Kipling
+710	The Hobbit	J. R. R. Tolkien
+714	Jumanji	Chris Van Allsburg
+717	Alice's Adventures in Wonderland	Lewis Carroll
+725	The Tale of Peter Rabbit	Beatrix Potter
+731	The Adventures of Tom Sawyer	Mark Twain
+772	The Wonderful Wizard of Oz	L. Frank Baum
+774	Heidi	Johanna Spyri
+778	A Christmas Carol	Charles Dickens
+780	Ragged Dick	"Horatio Alger, Jr."
+783	Adventures of Huckleberry Finn	Mark Twain
+789	The Story of the Treasure Seekers	E. Nesbit
+796	Raggedy Ann	Johnny Gruelle
+803	Winnie-the-Pooh	A. A. Milne
+808	The Weirdstone of Brisingamen	Alan Garner
+809	The Neverending Story	Michael Ende
+814	The Sword in the Stone	T. H. White
+815	A Little Princess	Frances Hodgson Burnett
+821	The Wind in the Willows	Kenneth Grahame
+831	The Swiss Family Robinson	Johann Rudolf Wyss
+833	A Tale of Two Cities	Charles Dickens
